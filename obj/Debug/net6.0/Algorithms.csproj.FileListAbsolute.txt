@@ -1,0 +1,15 @@
+C:\Users\Amr\Code-File\Algorithms\bin\Debug\net6.0\Algorithms.exe
+C:\Users\Amr\Code-File\Algorithms\bin\Debug\net6.0\Algorithms.deps.json
+C:\Users\Amr\Code-File\Algorithms\bin\Debug\net6.0\Algorithms.runtimeconfig.json
+C:\Users\Amr\Code-File\Algorithms\bin\Debug\net6.0\Algorithms.dll
+C:\Users\Amr\Code-File\Algorithms\bin\Debug\net6.0\Algorithms.pdb
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\Algorithms.csproj.AssemblyReference.cache
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\Algorithms.AssemblyInfo.cs
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\Algorithms.dll
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\refint\Algorithms.dll
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\Algorithms.pdb
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\Algorithms.genruntimeconfig.cache
+C:\Users\Amr\Code-File\Algorithms\obj\Debug\net6.0\ref\Algorithms.dll
